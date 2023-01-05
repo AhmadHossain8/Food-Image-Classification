@@ -26,4 +26,4 @@ accuracy, including the averaging parameter technique. Hence
 of InceptionV3, Resnet50, and VGG16 models using the average
 ensemble technique and average parameters had the highest
 accuracy of 95.24%.
-Dataset : https://drive.google.com/file/d/11jp8W_ZhtXpbGPk9Nx5TJ_MjvVK8LbyY/view?usp=share_link
+Dataset : https://www.kaggle.com/datasets/vermaavi/food11
