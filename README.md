@@ -83,19 +83,6 @@ Parameter averaging and model ensembling both improved food image classification
 
 See the [full report](Effects_of_Parameter_Averaging_and_Model_Ensembling_on_the_Accuracy_of_Food_Image_Classification.pdf) for the method, the architecture details and the related work.
 
-## Repository Structure
-
-| File | Description |
-|------|-------------|
-| `Alexnet_Normal_Training_With_Parameter_Averaging.ipynb` | AlexNet: normal training and parameter averaging |
-| `VGG16_Normal_Training_With_Parameter_Averaging.ipynb` | VGG16: normal training and parameter averaging |
-| `Resnet50_Normal_Training_With_Parameter_Averaging.ipynb` | ResNet50: normal training and parameter averaging |
-| `Inception_V3_Normal_Training_With_Parameter_Averaging.ipynb` | InceptionV3: normal training and parameter averaging |
-| `2_model_Combination.ipynb` | Ensembles of 2 models |
-| `3_model_Combination.ipynb` | Ensembles of 3 models |
-| `4_model_Combination.ipynb` | Ensemble of all 4 models |
-| `Effects_of_Parameter_Averaging_and_Model_Ensembling_on_the_Accuracy_of_Food_Image_Classification.pdf` | Final project report |
-
 ## How to Run
 
 1. Clone this repository:
